@@ -1,1 +1,1 @@
-C:\Users\Livio\Desktop\Informatik\Info1
+print("Hello c")
